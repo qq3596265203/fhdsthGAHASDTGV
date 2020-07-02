@@ -15,3 +15,4 @@ if num1 == num2:            #Remember that this is a double equal sign
     print num1, "is equal to", num2
 if num1 != num2:
     print num1, "is not equal to", num2
+    
