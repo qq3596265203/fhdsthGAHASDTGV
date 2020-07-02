@@ -14,4 +14,3 @@ for block in range(1, numBlocks + 1):
             print '*',
         print '  line = ', line, 'star = ', star    #Displays variables
     print
-    sff
